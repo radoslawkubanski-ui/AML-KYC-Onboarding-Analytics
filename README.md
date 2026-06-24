@@ -149,7 +149,7 @@ This variable was later incorporated into onboarding records and used as an inpu
 
 A Decision Tree Classifier was implemented to analyze onboarding outcomes and identify the most influential variables.
 
-The model achieved approximately **85% accuracy**.
+The model achieved approximately **91% accuracy**.
 
 The most influential variables identified by the model were:
 
@@ -331,7 +331,7 @@ Posteriormente fue incorporada al dataset y utilizada como variable de entrada p
 
 Se implementó un modelo Decision Tree Classifier para analizar los resultados del onboarding e identificar las variables más influyentes.
 
-El modelo alcanzó aproximadamente un **85% de precisión**.
+El modelo alcanzó aproximadamente un **91% de precisión**.
 
 Las variables más relevantes identificadas fueron:
 
