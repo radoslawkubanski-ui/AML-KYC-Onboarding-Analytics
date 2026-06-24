@@ -3,7 +3,7 @@
 ### Select Language / Seleccione Idioma
 
 - [🇬🇧 English](#english-version)
-- [🇪🇸 Español](#version-español)
+- [🇪🇸 Español](#spanish-version)
 
 ---
 
